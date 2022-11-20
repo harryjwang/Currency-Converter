@@ -1,0 +1,18 @@
+//
+// FirstCurrencyConvertorApp.Swift
+// 
+// Harry Wang - November 19th, 2022
+//
+
+import SwiftUI
+
+@main
+struct FirstCurrencyCovertorApp: App {
+
+	var body: some Scene {
+		WindowGroup {
+			ContentView()
+		}
+	}
+
+}
